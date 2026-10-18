@@ -1,0 +1,1551 @@
+{
+  "seekerName": "ADITYA SHARMA",
+  "guideName": "Acharya V. Shastri",
+  "verificationHash": "SNKLP-2024-XLSX-9842",
+  "activeSystemId": "sys-108",
+  "systems": [
+    {
+      "id": "sys-108",
+      "title": "100-Day Supreme Mindful Discipline",
+      "vowCycleNumber": 1,
+      "startDate": "2024-09-07",
+      "targetDays": 100,
+      "currentDay": 42,
+      "tapasLevelPercent": 84,
+      "active": true
+    },
+    {
+      "id": "sys-40",
+      "title": "Sattvic Diet & Vitality Cleanse (40-Day Reset)",
+      "vowCycleNumber": 2,
+      "startDate": "2024-10-19",
+      "targetDays": 40,
+      "currentDay": 0,
+      "tapasLevelPercent": 0,
+      "active": false
+    }
+  ],
+  "sankalps": [
+    {
+      "id": "vow-1",
+      "systemId": "sys-108",
+      "title": "Brahma Muhurta Meditation & Om Chanting (45 Mins)",
+      "category": "Spiritual",
+      "timeSlot": "brahma",
+      "timeLabel": "🌅 04:30 AM",
+      "reminderTime": "04:30",
+      "durationMins": 45,
+      "tip": "Take 3 deep conscious breaths before rising and view palms with reverence.",
+      "streakDays": 42,
+      "active": true
+    },
+    {
+      "id": "vow-2",
+      "systemId": "sys-108",
+      "title": "Surya Namaskar (12 Cycles) & Warm Copper Water",
+      "category": "Health",
+      "timeSlot": "brahma",
+      "timeLabel": "🌅 05:30 AM",
+      "reminderTime": "05:30",
+      "durationMins": 30,
+      "tip": "Drink copper-stored water slowly while seated on the floor.",
+      "streakDays": 42,
+      "active": true
+    },
+    {
+      "id": "vow-3",
+      "systemId": "sys-108",
+      "title": "2 Hours Deep Work (No Phone, No Social Media)",
+      "category": "Mind",
+      "timeSlot": "pratah",
+      "timeLabel": "☀️ 09:00 AM",
+      "reminderTime": "09:00",
+      "durationMins": 120,
+      "tip": "Leave phone in another room or activate strict \"Do Not Disturb\" mode.",
+      "streakDays": 28,
+      "active": true
+    },
+    {
+      "id": "vow-4",
+      "systemId": "sys-108",
+      "title": "Sattvic Pure Diet (No Refined Sugar, No Processed Food)",
+      "category": "Discipline",
+      "timeSlot": "madhyahna",
+      "timeLabel": "🌤️ 01:00 PM",
+      "reminderTime": "13:00",
+      "durationMins": 45,
+      "tip": "Pause for 10 seconds of silent gratitude before beginning your meal.",
+      "streakDays": 42,
+      "active": true
+    },
+    {
+      "id": "vow-5",
+      "systemId": "sys-108",
+      "title": "Evening Aarti & Bhagavad Gita Contemplation (Ch. 6 Dhyana Yoga)",
+      "category": "Spiritual",
+      "timeSlot": "sayam",
+      "timeLabel": "🌆 06:30 PM",
+      "reminderTime": "18:30",
+      "durationMins": 30,
+      "tip": "Elevate the self through the self; for the self alone is friend or foe.",
+      "streakDays": 35,
+      "active": true
+    },
+    {
+      "id": "vow-6",
+      "systemId": "sys-108",
+      "title": "30 Mins Screen-Free Quality Family Dialogue",
+      "category": "Relationships",
+      "timeSlot": "sayam",
+      "timeLabel": "🌆 08:00 PM",
+      "reminderTime": "20:00",
+      "durationMins": 30,
+      "tip": "Silent and mindful listening is the highest gesture of genuine respect.",
+      "streakDays": 40,
+      "active": true
+    },
+    {
+      "id": "vow-7",
+      "systemId": "sys-108",
+      "title": "Digital Detox & Yoga Nidra (10:00 PM Bedtime)",
+      "category": "Discipline",
+      "timeSlot": "ratri",
+      "timeLabel": "🌙 09:30 PM",
+      "reminderTime": "21:30",
+      "durationMins": 30,
+      "tip": "Take soothing Triphala tea 30 minutes before sleep for gentle detox.",
+      "streakDays": 42,
+      "active": true
+    }
+  ],
+  "dailyLogs": {
+    "1": {
+      "dayNumber": 1,
+      "dateStr": "07 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 1 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A2:H2",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "2": {
+      "dayNumber": 2,
+      "dateStr": "08 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 2 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A3:H3",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "3": {
+      "dayNumber": 3,
+      "dateStr": "09 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 3 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A4:H4",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "4": {
+      "dayNumber": 4,
+      "dateStr": "10 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 4 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A5:H5",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "5": {
+      "dayNumber": 5,
+      "dateStr": "11 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 5 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A6:H6",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "6": {
+      "dayNumber": 6,
+      "dateStr": "12 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 6 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A7:H7",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "7": {
+      "dayNumber": 7,
+      "dateStr": "13 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 7 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A8:H8",
+      "syncedAt": "2026-10-18T15:37:06.822Z"
+    },
+    "8": {
+      "dayNumber": 8,
+      "dateStr": "14 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 8 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A9:H9",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "9": {
+      "dayNumber": 9,
+      "dateStr": "15 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 9 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A10:H10",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "10": {
+      "dayNumber": 10,
+      "dateStr": "16 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 10 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A11:H11",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "11": {
+      "dayNumber": 11,
+      "dateStr": "17 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 11 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A12:H12",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "12": {
+      "dayNumber": 12,
+      "dateStr": "18 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 12 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A13:H13",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "13": {
+      "dayNumber": 13,
+      "dateStr": "19 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 13 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A14:H14",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "14": {
+      "dayNumber": 14,
+      "dateStr": "20 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 14 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A15:H15",
+      "syncedAt": "2026-10-18T15:37:06.823Z"
+    },
+    "15": {
+      "dayNumber": 15,
+      "dateStr": "21 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 15 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A16:H16",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "16": {
+      "dayNumber": 16,
+      "dateStr": "22 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 16 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A17:H17",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "17": {
+      "dayNumber": 17,
+      "dateStr": "23 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 17 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A18:H18",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "18": {
+      "dayNumber": 18,
+      "dateStr": "24 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 18 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A19:H19",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "19": {
+      "dayNumber": 19,
+      "dateStr": "25 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 19 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A20:H20",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "20": {
+      "dayNumber": 20,
+      "dateStr": "26 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 20 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A21:H21",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "21": {
+      "dayNumber": 21,
+      "dateStr": "27 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "🌟 Phase 1 Milestone: 21 Days Complete! Habit formation successfully achieved.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A22:H22",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "22": {
+      "dayNumber": 22,
+      "dateStr": "28 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 22 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A23:H23",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "23": {
+      "dayNumber": 23,
+      "dateStr": "29 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 23 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A24:H24",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "24": {
+      "dayNumber": 24,
+      "dateStr": "30 Sept 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 24 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A25:H25",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "25": {
+      "dayNumber": 25,
+      "dateStr": "01 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 25 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A26:H26",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "26": {
+      "dayNumber": 26,
+      "dateStr": "02 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 26 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A27:H27",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "27": {
+      "dayNumber": 27,
+      "dateStr": "03 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 27 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A28:H28",
+      "syncedAt": "2026-10-18T15:37:06.824Z"
+    },
+    "28": {
+      "dayNumber": 28,
+      "dateStr": "04 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 28 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A29:H29",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "29": {
+      "dayNumber": 29,
+      "dateStr": "05 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 29 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A30:H30",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "30": {
+      "dayNumber": 30,
+      "dateStr": "06 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 30 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A31:H31",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "31": {
+      "dayNumber": 31,
+      "dateStr": "07 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 31 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A32:H32",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "32": {
+      "dayNumber": 32,
+      "dateStr": "08 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 32 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A33:H33",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "33": {
+      "dayNumber": 33,
+      "dateStr": "09 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 33 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A34:H34",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "34": {
+      "dayNumber": 34,
+      "dateStr": "10 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 34 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A35:H35",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "35": {
+      "dayNumber": 35,
+      "dateStr": "11 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 35 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A36:H36",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "36": {
+      "dayNumber": 36,
+      "dateStr": "12 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 36 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A37:H37",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "37": {
+      "dayNumber": 37,
+      "dateStr": "13 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 37 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A38:H38",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "38": {
+      "dayNumber": 38,
+      "dateStr": "14 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-7"
+      ],
+      "mindfulnessRating": 4.2,
+      "innerState": "Energized",
+      "journalNote": "Day 38 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Partial",
+      "excelRowRef": "DailyLogs!A39:H39",
+      "syncedAt": "2026-10-18T15:37:06.825Z"
+    },
+    "39": {
+      "dayNumber": 39,
+      "dateStr": "15 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Day 39 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A40:H40",
+      "syncedAt": "2026-10-18T15:37:06.826Z"
+    },
+    "40": {
+      "dayNumber": 40,
+      "dateStr": "16 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Tranquil",
+      "journalNote": "Day 40 discipline fulfilled with serene resolve and steady focus.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A41:H41",
+      "syncedAt": "2026-10-18T15:37:06.826Z"
+    },
+    "41": {
+      "dayNumber": 41,
+      "dateStr": "17 Oct 2024",
+      "completedVowIds": [
+        "vow-1",
+        "vow-2",
+        "vow-3",
+        "vow-4",
+        "vow-5",
+        "vow-6",
+        "vow-7"
+      ],
+      "mindfulnessRating": 5,
+      "innerState": "Single-Pointed Focus",
+      "journalNote": "Mind remained exceptionally focused. High energy retained throughout the day with zero negative intrusions.",
+      "status": "Fulfilled",
+      "excelRowRef": "DailyLogs!A42:H42",
+      "syncedAt": "2026-10-18T15:37:06.826Z"
+    },
+    "42": {
+      "dayNumber": 42,
+      "dateStr": "18 Oct 2024",
+      "completedVowIds": [
+        "vow-2",
+        "vow-3",
+        "vow-1"
+      ],
+      "mindfulnessRating": 4.5,
+      "innerState": "Tranquil",
+      "journalNote": "Mid-day stillness maintained. Recharged energy with 5 minutes of sound contemplation after noon.",
+      "status": "In Progress",
+      "excelRowRef": "DailyLogs!A43:H43",
+      "syncedAt": "2026-10-18T16:50:57.234Z"
+    },
+    "43": {
+      "dayNumber": 43,
+      "dateStr": "19 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 43.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A44:H44",
+      "syncedAt": ""
+    },
+    "44": {
+      "dayNumber": 44,
+      "dateStr": "20 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 44.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A45:H45",
+      "syncedAt": ""
+    },
+    "45": {
+      "dayNumber": 45,
+      "dateStr": "21 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 45.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A46:H46",
+      "syncedAt": ""
+    },
+    "46": {
+      "dayNumber": 46,
+      "dateStr": "22 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 46.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A47:H47",
+      "syncedAt": ""
+    },
+    "47": {
+      "dayNumber": 47,
+      "dateStr": "23 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 47.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A48:H48",
+      "syncedAt": ""
+    },
+    "48": {
+      "dayNumber": 48,
+      "dateStr": "24 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 48.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A49:H49",
+      "syncedAt": ""
+    },
+    "49": {
+      "dayNumber": 49,
+      "dateStr": "25 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 49.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A50:H50",
+      "syncedAt": ""
+    },
+    "50": {
+      "dayNumber": 50,
+      "dateStr": "26 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 50.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A51:H51",
+      "syncedAt": ""
+    },
+    "51": {
+      "dayNumber": 51,
+      "dateStr": "27 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "🎯 Target Milestone: 51 Days (Mental Fortitude Vow).",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A52:H52",
+      "syncedAt": ""
+    },
+    "52": {
+      "dayNumber": 52,
+      "dateStr": "28 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 52.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A53:H53",
+      "syncedAt": ""
+    },
+    "53": {
+      "dayNumber": 53,
+      "dateStr": "29 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 53.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A54:H54",
+      "syncedAt": ""
+    },
+    "54": {
+      "dayNumber": 54,
+      "dateStr": "30 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 54.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A55:H55",
+      "syncedAt": ""
+    },
+    "55": {
+      "dayNumber": 55,
+      "dateStr": "31 Oct 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 55.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A56:H56",
+      "syncedAt": ""
+    },
+    "56": {
+      "dayNumber": 56,
+      "dateStr": "01 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 56.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A57:H57",
+      "syncedAt": ""
+    },
+    "57": {
+      "dayNumber": 57,
+      "dateStr": "02 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 57.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A58:H58",
+      "syncedAt": ""
+    },
+    "58": {
+      "dayNumber": 58,
+      "dateStr": "03 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 58.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A59:H59",
+      "syncedAt": ""
+    },
+    "59": {
+      "dayNumber": 59,
+      "dateStr": "04 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 59.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A60:H60",
+      "syncedAt": ""
+    },
+    "60": {
+      "dayNumber": 60,
+      "dateStr": "05 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 60.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A61:H61",
+      "syncedAt": ""
+    },
+    "61": {
+      "dayNumber": 61,
+      "dateStr": "06 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 61.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A62:H62",
+      "syncedAt": ""
+    },
+    "62": {
+      "dayNumber": 62,
+      "dateStr": "07 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 62.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A63:H63",
+      "syncedAt": ""
+    },
+    "63": {
+      "dayNumber": 63,
+      "dateStr": "08 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 63.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A64:H64",
+      "syncedAt": ""
+    },
+    "64": {
+      "dayNumber": 64,
+      "dateStr": "09 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 64.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A65:H65",
+      "syncedAt": ""
+    },
+    "65": {
+      "dayNumber": 65,
+      "dateStr": "10 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 65.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A66:H66",
+      "syncedAt": ""
+    },
+    "66": {
+      "dayNumber": 66,
+      "dateStr": "11 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 66.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A67:H67",
+      "syncedAt": ""
+    },
+    "67": {
+      "dayNumber": 67,
+      "dateStr": "12 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 67.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A68:H68",
+      "syncedAt": ""
+    },
+    "68": {
+      "dayNumber": 68,
+      "dateStr": "13 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 68.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A69:H69",
+      "syncedAt": ""
+    },
+    "69": {
+      "dayNumber": 69,
+      "dateStr": "14 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 69.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A70:H70",
+      "syncedAt": ""
+    },
+    "70": {
+      "dayNumber": 70,
+      "dateStr": "15 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 70.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A71:H71",
+      "syncedAt": ""
+    },
+    "71": {
+      "dayNumber": 71,
+      "dateStr": "16 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 71.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A72:H72",
+      "syncedAt": ""
+    },
+    "72": {
+      "dayNumber": 72,
+      "dateStr": "17 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 72.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A73:H73",
+      "syncedAt": ""
+    },
+    "73": {
+      "dayNumber": 73,
+      "dateStr": "18 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 73.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A74:H74",
+      "syncedAt": ""
+    },
+    "74": {
+      "dayNumber": 74,
+      "dateStr": "19 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 74.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A75:H75",
+      "syncedAt": ""
+    },
+    "75": {
+      "dayNumber": 75,
+      "dateStr": "20 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "🔥 Target Milestone: 75 Days (Unshakable Will Radiance).",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A76:H76",
+      "syncedAt": ""
+    },
+    "76": {
+      "dayNumber": 76,
+      "dateStr": "21 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 76.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A77:H77",
+      "syncedAt": ""
+    },
+    "77": {
+      "dayNumber": 77,
+      "dateStr": "22 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 77.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A78:H78",
+      "syncedAt": ""
+    },
+    "78": {
+      "dayNumber": 78,
+      "dateStr": "23 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 78.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A79:H79",
+      "syncedAt": ""
+    },
+    "79": {
+      "dayNumber": 79,
+      "dateStr": "24 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 79.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A80:H80",
+      "syncedAt": ""
+    },
+    "80": {
+      "dayNumber": 80,
+      "dateStr": "25 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 80.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A81:H81",
+      "syncedAt": ""
+    },
+    "81": {
+      "dayNumber": 81,
+      "dateStr": "26 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 81.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A82:H82",
+      "syncedAt": ""
+    },
+    "82": {
+      "dayNumber": 82,
+      "dateStr": "27 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 82.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A83:H83",
+      "syncedAt": ""
+    },
+    "83": {
+      "dayNumber": 83,
+      "dateStr": "28 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 83.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A84:H84",
+      "syncedAt": ""
+    },
+    "84": {
+      "dayNumber": 84,
+      "dateStr": "29 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 84.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A85:H85",
+      "syncedAt": ""
+    },
+    "85": {
+      "dayNumber": 85,
+      "dateStr": "30 Nov 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 85.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A86:H86",
+      "syncedAt": ""
+    },
+    "86": {
+      "dayNumber": 86,
+      "dateStr": "01 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 86.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A87:H87",
+      "syncedAt": ""
+    },
+    "87": {
+      "dayNumber": 87,
+      "dateStr": "02 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 87.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A88:H88",
+      "syncedAt": ""
+    },
+    "88": {
+      "dayNumber": 88,
+      "dateStr": "03 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 88.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A89:H89",
+      "syncedAt": ""
+    },
+    "89": {
+      "dayNumber": 89,
+      "dateStr": "04 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 89.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A90:H90",
+      "syncedAt": ""
+    },
+    "90": {
+      "dayNumber": 90,
+      "dateStr": "05 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 90.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A91:H91",
+      "syncedAt": ""
+    },
+    "91": {
+      "dayNumber": 91,
+      "dateStr": "06 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 91.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A92:H92",
+      "syncedAt": ""
+    },
+    "92": {
+      "dayNumber": 92,
+      "dateStr": "07 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 92.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A93:H93",
+      "syncedAt": ""
+    },
+    "93": {
+      "dayNumber": 93,
+      "dateStr": "08 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 93.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A94:H94",
+      "syncedAt": ""
+    },
+    "94": {
+      "dayNumber": 94,
+      "dateStr": "09 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 94.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A95:H95",
+      "syncedAt": ""
+    },
+    "95": {
+      "dayNumber": 95,
+      "dateStr": "10 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 95.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A96:H96",
+      "syncedAt": ""
+    },
+    "96": {
+      "dayNumber": 96,
+      "dateStr": "11 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 96.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A97:H97",
+      "syncedAt": ""
+    },
+    "97": {
+      "dayNumber": 97,
+      "dateStr": "12 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 97.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A98:H98",
+      "syncedAt": ""
+    },
+    "98": {
+      "dayNumber": 98,
+      "dateStr": "13 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 98.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A99:H99",
+      "syncedAt": ""
+    },
+    "99": {
+      "dayNumber": 99,
+      "dateStr": "14 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "Scheduled discipline for Day 99.",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A100:H100",
+      "syncedAt": ""
+    },
+    "100": {
+      "dayNumber": 100,
+      "dateStr": "15 Dec 2024",
+      "completedVowIds": [],
+      "mindfulnessRating": 0,
+      "innerState": "Pending",
+      "journalNote": "👑 Target Milestone: Day 100 Supreme Siddhi Completion!",
+      "status": "Pending",
+      "excelRowRef": "DailyLogs!A101:H101",
+      "syncedAt": ""
+    }
+  },
+  "lastSyncedAt": "2026-10-18T16:50:57.234Z",
+  "blobVersion": "v2.4-json-blob",
+  "blobSizeKb": 41.8
+}
